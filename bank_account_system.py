@@ -1,4 +1,3 @@
-"""Bank account management module."""
 
 import hashlib
 import os
